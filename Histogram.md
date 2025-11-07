@@ -36,9 +36,9 @@ You can:
 
 The simplest way to choose the number of bins for a histogram is:
 
-\[
+$$
 \text{Number of bins} = \sqrt{n}
-\]
+$$
 
 Where:
 
